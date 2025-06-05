@@ -34,5 +34,3 @@ This dashboard is used in pharmaceutical manufacturing to:
 
 > **Note**: All data is anonymised/simulated for training and educational purposes.
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](images/dashboard-preview.jpg)

@@ -1,3 +1,4 @@
+
 # 🧪 Real-Time Monitoring of Cleanroom Conditions – MSD Animal Health
 
 ## 📌 Objective
@@ -33,4 +34,6 @@ This dashboard is used in pharmaceutical manufacturing to:
 - Support batch release decision-making
 
 > **Note**: All data is anonymised/simulated for training and educational purposes.
+
+![REAL-TIME MONITORING OF CLEANROOM CONDITIONS](https://github.com/user-attachments/assets/145105b2-73c0-4919-b2ea-77f0a424b0c2)
 
